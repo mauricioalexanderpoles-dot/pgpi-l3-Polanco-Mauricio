@@ -1,0 +1,6 @@
+1. Instalación y comprobación de la versión de Docker Compose
+2. Busqué las imagenes de wordpress y mysql
+3. Escribí el docker-compose.yml con los servicios db y wordpress
+4. Busque una versión de mysql que funcione con el hardware, este fue mysql:5.7
+5. Levante el sistema con docker compose y realice la configuración y
+registro en la interfaz gráfica
